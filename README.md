@@ -1,12 +1,12 @@
 <hr>
 
 # Contents  
-- [Introduction](#Introduction)  
-- [Question: Why use **Map** ?](#Question: Why use **Map** ?)  
-- [Method](#Method)  
-- [Result](#Result) 
-- [Discussion](#Discussion) 
-- [Reference](#Reference)  
+- [Introduction](#introduction)  
+- [Question: Why use **Map** ?](#question-why-use-map)  
+- [Method](#method)  
+- [Result](#result) 
+- [Discussion](#discussion) 
+- [Reference](#reference)  
 
 
 # Introduction
