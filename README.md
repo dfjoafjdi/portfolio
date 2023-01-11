@@ -4,7 +4,11 @@
 - [Introduction](#introduction)  
 - [Question: Why use **Map** ?](#question-why-use-map)  
 - [Method](#method)  
-- [Result](#result) 
+- [Result](#result)
+  -[Figure 1](#statistics-chart-of-cumulative-events-of-You-call-i-answer-in-Zhongtian-Community)
+  -[Figure 2](#dynamic-bar-chart-based-on-Plotly)
+  -[Figure 3](#visualization-with-map-based-on-tkinter)
+  -[Figure 4](#final-visualization-with-map-based-on-folium)
 - [Discussion](#discussion) 
 - [Reference](#reference)  
 
