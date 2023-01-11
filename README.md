@@ -17,7 +17,7 @@ Python with: `Plotly`, [`Tkinter`](“tkinter — Python interface to Tcl/Tk”.
 # Result
 
 **<center>1. Statistics chart of cumulative events of "You call I answer" in Zhongtian Community</center>**
-![figure!](./project/柱状图.png "figure")
+![figure!](./project/image/柱状图.png "figure")
 
 **<center>2. Dynamic bar chart based on Plotly</center>**
 
@@ -30,10 +30,10 @@ Python with: `Plotly`, [`Tkinter`](“tkinter — Python interface to Tcl/Tk”.
                         })                };                            </script>        </div>
 
 **<center>3. Visualization with map based on Tkinter</center>**
-[![pyheatmap](./project/pyheatmap.png)](https://dfjoafjdi.github.io/portfolio/project/display.py)
+[![pyheatmap](./project/image/pyheatmap.png)](https://dfjoafjdi.github.io/portfolio/project/display.py)
 
 **<center>4. Final visualization with map based on Folium</center>**
-[![Heat Map!](./project/screenshot.png "Heat Map")](https://dfjoafjdi.github.io/portfolio/project/map.html)
+[![Heat Map!](./project/image/screenshot.png "Heat Map")](https://dfjoafjdi.github.io/portfolio/project/map.html)
 
 
 # Discussion
