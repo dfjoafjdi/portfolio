@@ -2,7 +2,7 @@
 
 # Contents  
 - [Introduction](#Introduction)  
-- [Question: Why use **map** ?](#Question: Why use **map** ?)  
+- [Question: Why use **Map** ?](#Question: Why use **Map** ?)  
 - [Method](#Method)  
 - [Result](#Result) 
 - [Discussion](#Discussion) 
@@ -14,7 +14,7 @@
 
 "Visualization combined with data and maps" is exactly the direction of our team project, aiming at making it more convenient for community managers to understand the number of problems in each area of the community, and possibly to find some geographical rules, so as to better find problems and serve the community.
 
-# Question: Why use **map** ?
+# Question: Why use **Map** ?
 
 <center>The geographical relationship of different grids can be shown directly with a map, while in a chart, you'll never know it.</center>
 
