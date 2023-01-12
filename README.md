@@ -39,10 +39,10 @@ Python with: `Plotly`, [`Tkinter`](“tkinter — Python interface to Tcl/Tk”.
                             Plotly.animate('12a488f1-15b6-44cf-a409-9b54176905b0', null);
                         })                };                            </script>        </div>
 
-**<center>3. Visualization with map based on Tkinter</center>**
+**<center>3. Visualization with map based on Tkinter(Click to interact)</center>**
 [![pyheatmap](./project/image/pyheatmap.png)](https://dfjoafjdi.github.io/portfolio/project/display.py)
 
-**<center>4. Final visualization with map based on Folium</center>**
+**<center>4. Final visualization with map based on Folium(Click to interact)</center>**
 [![Heat Map!](./project/image/screenshot.png "Heat Map")](https://dfjoafjdi.github.io/portfolio/project/map.html)
 
 
